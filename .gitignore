@@ -1,0 +1,13 @@
+# Visual Studio cache/options files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+x64/
+Debug/
+Release/
+bin/
+obj/
